@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_29-introducao-entity-framework", "aula_29-introducao-entity-framework\aula_29-introducao-entity-framework.csproj", "{DFAD3C93-A644-411F-A4A5-7FE9C72AB906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAD3C93-A644-411F-A4A5-7FE9C72AB906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAD3C93-A644-411F-A4A5-7FE9C72AB906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAD3C93-A644-411F-A4A5-7FE9C72AB906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAD3C93-A644-411F-A4A5-7FE9C72AB906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09273013-E0E2-4AF0-93BF-93D8481F251B}
+	EndGlobalSection
+EndGlobal
