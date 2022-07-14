@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Models.Mesa_1;
 
 namespace Mesa1.Models
 {
@@ -10,6 +11,6 @@ namespace Mesa1.Models
 
         public DbSet<Filme> Filmes { get; set; }
 
-        public DbSet<Filme> Ator { get; set; }
+        public DbSet<Ator> Atores { get; set; }
     }
 }

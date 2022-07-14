@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mairao\\Documents\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj": {}
+    "C:\\Users\\mairao\\Documents\\aula-29\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mairao\\Documents\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj": {
+    "C:\\Users\\mairao\\Documents\\aula-29\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mairao\\Documents\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj",
+        "projectUniqueName": "C:\\Users\\mairao\\Documents\\aula-29\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj",
         "projectName": "aula_29-introducao-entity-framework",
-        "projectPath": "C:\\Users\\mairao\\Documents\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj",
+        "projectPath": "C:\\Users\\mairao\\Documents\\aula-29\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework.csproj",
         "packagesPath": "C:\\Users\\mairao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mairao\\Documents\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\obj\\",
+        "outputPath": "C:\\Users\\mairao\\Documents\\aula-29\\aula-29\\aula_29-introducao-entity-framework\\aula_29-introducao-entity-framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mairao\\AppData\\Roaming\\NuGet\\NuGet.Config",

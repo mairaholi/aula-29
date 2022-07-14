@@ -9,6 +9,9 @@ builder.Services.AddControllersWithViews();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddDbContext<Catalogo>(opt => opt.UseInMemoryDatabase("Filme"));
 
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddDbContext<Catalogo>(opt => opt.UseInMemoryDatabase("Ator"));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
