@@ -15,24 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mairao\Documents\aula-29\aula-29\aula_29-introducao-entity-framework\aula_29-introducao-entity-framework
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Ators/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcnNcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Atores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Ators/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcnNcRGVsZXRlLmNzaHRtbA==
+[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Atores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Ators/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcnNcRGV0YWlscy5jc2h0bWw=
+[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Atores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Ators/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcnNcRWRpdC5jc2h0bWw=
+[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Atores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Ators/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcnNcSW5kZXguY3NodG1s
+[C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Atores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mairao/Documents/aula-29/aula-29/aula_29-introducao-entity-framework/aula_29-introducao-entity-framework/Views/Filmes/Create.cshtml]

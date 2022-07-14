@@ -10,16 +10,16 @@ using Models.Mesa_1;
 
 namespace aula_29_introducao_entity_framework.Controllers
 {
-    public class AtorsController : Controller
+    public class AtoresController : Controller
     {
         private readonly Catalogo _context;
 
-        public AtorsController(Catalogo context)
+        public AtoresController(Catalogo context)
         {
             _context = context;
         }
 
-        // GET: Ators
+        // GET: Atores
         public async Task<IActionResult> Index()
         {
               return _context.Atores != null ? 
@@ -27,7 +27,7 @@ namespace aula_29_introducao_entity_framework.Controllers
                           Problem("Entity set 'Catalogo.Atores'  is null.");
         }
 
-        // GET: Ators/Details/5
+        // GET: Atores/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Atores == null)
@@ -45,13 +45,13 @@ namespace aula_29_introducao_entity_framework.Controllers
             return View(ator);
         }
 
-        // GET: Ators/Create
+        // GET: Atores/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Ators/Create
+        // POST: Atores/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -67,7 +67,7 @@ namespace aula_29_introducao_entity_framework.Controllers
             return View(ator);
         }
 
-        // GET: Ators/Edit/5
+        // GET: Atores/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Atores == null)
@@ -83,7 +83,7 @@ namespace aula_29_introducao_entity_framework.Controllers
             return View(ator);
         }
 
-        // POST: Ators/Edit/5
+        // POST: Atores/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -118,7 +118,7 @@ namespace aula_29_introducao_entity_framework.Controllers
             return View(ator);
         }
 
-        // GET: Ators/Delete/5
+        // GET: Atores/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Atores == null)
@@ -136,7 +136,7 @@ namespace aula_29_introducao_entity_framework.Controllers
             return View(ator);
         }
 
-        // POST: Ators/Delete/5
+        // POST: Atores/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
